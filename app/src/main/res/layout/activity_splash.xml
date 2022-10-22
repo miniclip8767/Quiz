@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_splash"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Gold"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="org.theappflap.basics.quiz2016.SplashActivity">
+
+    <TextView
+        android:id="@+id/welcome_splash"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/splash_image"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="437dp"
+        android:text="@string/welcome_message"
+        android:textColor="@color/BlueViolet"
+        android:textSize="@dimen/text_twenty_four" />
+
+    <ImageView
+        android:id="@+id/splash_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/splash_screen_image"
+        android:paddingTop="@dimen/padding_100"
+        android:src="@drawable/hellothere" />
+
+</RelativeLayout>

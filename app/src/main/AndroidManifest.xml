@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="org.theappflap.basics.quiz2016"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/christopher_newman_75"
+        android:label="Clowitty's Universal Neuron Tester"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity">
+        </activity>
+        <activity android:name=".AboutActivity">
+        </activity>
+        <activity android:name=".QuestionTwoActivity">
+        </activity>
+        <activity android:name=".QuestionThreeActivity">
+        </activity>
+        <activity android:name=".QuestionFourActivity">
+        </activity>
+        <activity android:name=".QuestionFiveActivity">
+        </activity>
+        <activity android:name=".QuestionSixActivity">
+        </activity>
+        <activity android:name=".FinalActivity">
+        </activity>
+    </application>
+
+</manifest>

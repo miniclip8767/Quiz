@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">C.U.N.T</string>
+    <string name="welcome_message">Hello there</string>
+    <string name="splash_screen_image">An image of a wolf on the splash screen</string>
+
+    <string name="skip_text"> SKIP </string>
+
+    <string name="about_text">About</string>
+    <string name="about_one">Many a year ago, Clowitty was asked to make a quiz for her ICT class.</string>
+    <string name="about_two">She made a funny quiz, with silly answers akin to the Impossible Quiz.</string>
+    <string name="about_three">4–5 years later, she was asked to make another quiz for a University unit.</string>
+    <string name="about_four">Due to COVID, it was never finished. But now it is.</string>
+    <string name="about_five">what have you done</string>
+
+    <string name="title_activity_main">Question One</string>
+    <string name="question_one_text">Wait…oh no, not again!</string>
+    <string name="answer_one_text">NO OH GOD NO</string>
+    <string name="answer_two_text">Wait, again?</string>
+    <string name="answer_three_text">I don\'t get it</string>
+    <string name="answer_four_text">Wow this is an old reference</string>
+    <!-- Question Two -->
+    <string name="question_two_text">So, uh…it\'s been a while. How have you been?</string>
+    <string name="answer_one_text_2">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</string>
+    <string name="answer_two_text_2">pandemic</string>
+    <string name="answer_three_text_2">trump</string>
+    <string name="answer_four_text_2">gender crisis</string>
+    <!-- Question Three -->
+    <string name="question_three_text">Oh yeah, sorry about the inconsistent button placement. It\'ll fix itself after Q4, I promise.</string>
+    <string name="answer_one_text_three">will it tho</string>
+    <string name="answer_two_text_three">Couldn\'t you just make them fresh?</string>
+    <string name="answer_three_text_three">Well NOW I noticed it!</string>
+    <string name="answer_four_text_three">Couldn\'t you just copy and paste it?</string>
+    <!-- Question Four -->
+    <string name="question_four_text">Do do dooooooo, dooo, do doooo doo, do dooooooooooo....do doooooo!</string>
+    <string name="answer_one_text_four">THUNK THUNK</string>
+    <string name="answer_two_text_four">PEW PEW PEW.....PEW PEW PEW...</string>
+    <string name="answer_three_text_four">VRRRRRRRRRRRRRRRRRRRRRR</string>
+    <string name="answer_four_text_four">PEWPEWPEWPEWPEWPEW</string>
+    <!-- Question Five -->
+    <string name="question_five_text">See, fixed! Told you!</string>
+    <string name="answer_one_text_five">thanks i guess</string>
+    <string name="answer_two_text_five">Symmetry owo</string>
+    <string name="answer_three_text_five">Does it still have to be in these colours</string>
+    <string name="answer_four_text_five">Go effort :D</string>
+    <!-- Question Six -->
+    <string name="question_six_text">aw shit it\'s called cunt isn\'t it</string>
+    <string name="answer_one_text_six">oh fuck yeah it is</string>
+    <string name="answer_two_text_six">HAHAHAHAHAHAHAHAAAAAAAAAAHAHAHAAAA</string>
+    <string name="answer_three_text_six">How did you not spot that?!</string>
+    <string name="answer_four_text_six">Since when did you turn Australian?</string>
+
+    <string name="final_text">This is where the score will be displayed.</string>
+    <string name="submit_text">Submit</string>
+</resources>
