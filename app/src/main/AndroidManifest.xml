@@ -30,6 +30,8 @@
         </activity>
         <activity android:name=".QuestionSixActivity">
         </activity>
+        <activity android:name=".QuestionSevenActivity">
+        </activity>
         <activity android:name=".FinalActivity">
         </activity>
     </application>

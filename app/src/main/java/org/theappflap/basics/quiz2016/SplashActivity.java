@@ -3,7 +3,7 @@ package org.theappflap.basics.quiz2016;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 
 public class SplashActivity extends AppCompatActivity implements Runnable {
      private final static int DELAY = 5000; // Five seconds of the splash screen

@@ -48,6 +48,12 @@
     <string name="answer_two_text_six">HAHAHAHAHAHAHAHAAAAAAAAAAHAHAHAAAA</string>
     <string name="answer_three_text_six">How did you not spot that?!</string>
     <string name="answer_four_text_six">Since when did you turn Australian?</string>
+    <!-- Question Seven -->
+    <string name="question_seven_text">Shit, Roy, Moss is bleeding out! Quick, what\'s the number for the ambulance service?</string>
+    <string name="answer_one_text_seven">0118 999 881 999 119 7251</string>
+    <string name="answer_two_text_seven">0118 999 881 999 119 7252</string>
+    <string name="answer_three_text_seven">0118 999 881 999 119 7253</string>
+    <string name="answer_four_text_seven">0118 999 881 999 119 7254</string>
 
     <string name="final_text">This is where the score will be displayed.</string>
     <string name="submit_text">Submit</string>
