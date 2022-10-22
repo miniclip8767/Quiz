@@ -13,47 +13,65 @@
     <string name="about_five">what have you done</string>
 
     <string name="title_activity_main">Question One</string>
-    <string name="question_one_text">Wait…oh no, not again!</string>
+    <string name="question_one_text">Q1) Wait…oh no, not again!</string>
     <string name="answer_one_text">NO OH GOD NO</string>
     <string name="answer_two_text">Wait, again?</string>
     <string name="answer_three_text">I don\'t get it</string>
     <string name="answer_four_text">Wow this is an old reference</string>
     <!-- Question Two -->
-    <string name="question_two_text">So, uh…it\'s been a while. How have you been?</string>
+    <string name="question_two_text">Q2) So, uh…it\'s been a while. How have you been?</string>
     <string name="answer_one_text_2">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</string>
     <string name="answer_two_text_2">pandemic</string>
     <string name="answer_three_text_2">trump</string>
     <string name="answer_four_text_2">gender crisis</string>
     <!-- Question Three -->
-    <string name="question_three_text">Oh yeah, sorry about the inconsistent button placement. It\'ll fix itself after Q4, I promise.</string>
+    <string name="question_three_text">Q3) Oh yeah, sorry about the inconsistent button placement. It\'ll fix itself after Q4, I promise.</string>
     <string name="answer_one_text_three">will it tho</string>
     <string name="answer_two_text_three">Couldn\'t you just make them fresh?</string>
     <string name="answer_three_text_three">Well NOW I noticed it!</string>
     <string name="answer_four_text_three">Couldn\'t you just copy and paste it?</string>
     <!-- Question Four -->
-    <string name="question_four_text">Do do dooooooo, dooo, do doooo doo, do dooooooooooo....do doooooo!</string>
+    <string name="question_four_text">Q4) Do do dooooooo, dooo, do doooo doo, do dooooooooooo....do doooooo!</string>
     <string name="answer_one_text_four">THUNK THUNK</string>
     <string name="answer_two_text_four">PEW PEW PEW.....PEW PEW PEW...</string>
     <string name="answer_three_text_four">VRRRRRRRRRRRRRRRRRRRRRR</string>
     <string name="answer_four_text_four">PEWPEWPEWPEWPEWPEW</string>
     <!-- Question Five -->
-    <string name="question_five_text">See, fixed! Told you!</string>
+    <string name="question_five_text">Q5) See, fixed! Told you!</string>
     <string name="answer_one_text_five">thanks i guess</string>
     <string name="answer_two_text_five">Symmetry owo</string>
     <string name="answer_three_text_five">Does it still have to be in these colours</string>
     <string name="answer_four_text_five">Go effort :D</string>
     <!-- Question Six -->
-    <string name="question_six_text">aw shit it\'s called cunt isn\'t it</string>
+    <string name="question_six_text">Q6) aw shit it\'s called cunt isn\'t it</string>
     <string name="answer_one_text_six">oh fuck yeah it is</string>
     <string name="answer_two_text_six">HAHAHAHAHAHAHAHAAAAAAAAAAHAHAHAAAA</string>
     <string name="answer_three_text_six">How did you not spot that?!</string>
     <string name="answer_four_text_six">Since when did you turn Australian?</string>
     <!-- Question Seven -->
-    <string name="question_seven_text">Shit, Roy, Moss is bleeding out! Quick, what\'s the number for the ambulance service?</string>
+    <string name="question_seven_text">Q7) Shit, Roy, Moss is bleeding out! Quick, what\'s the number for the ambulance service?</string>
     <string name="answer_one_text_seven">0118 999 881 999 119 7251</string>
     <string name="answer_two_text_seven">0118 999 881 999 119 7252</string>
     <string name="answer_three_text_seven">0118 999 881 999 119 7253</string>
     <string name="answer_four_text_seven">0118 999 881 999 119 7254</string>
+    <!-- Question Eight -->
+    <string name="question_eight_text">.sdrawkcab noitseuq siht rewsnA (8Q</string>
+    <string name="answer_one_text_eight">K.O</string>
+    <string name="answer_two_text_eight">What?</string>
+    <string name="answer_three_text_eight">I don\'t understand</string>
+    <string name="answer_four_text_eight">Tennis elbow</string>
+    <!-- Question Nine -->
+    <string name="question_nine_text">That last question seemed oddly familiar…</string>
+    <string name="answer_one_text_nine">Dunno what you\'re talking about</string>
+    <string name="answer_two_text_nine">Can\'t be, Flash is dead</string>
+    <string name="answer_three_text_nine">YOU\'LL NEVER TAKE ME ALIVE</string>
+    <string name="answer_four_text_nine">uh hun</string>
+    <!-- Question Ten -->
+    <string name="question_ten_text">Q?) wait fuck i lost count what question is this?</string>
+    <string name="answer_one_text_ten">8</string>
+    <string name="answer_two_text_ten">9</string>
+    <string name="answer_three_text_ten">10</string>
+    <string name="answer_four_text_ten">11</string>
 
     <string name="final_text">This is where the score will be displayed.</string>
     <string name="submit_text">Submit</string>

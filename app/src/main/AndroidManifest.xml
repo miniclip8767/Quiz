@@ -32,6 +32,12 @@
         </activity>
         <activity android:name=".QuestionSevenActivity">
         </activity>
+        <activity android:name=".QuestionEightActivity">
+        </activity>
+        <activity android:name=".QuestionNineActivity">
+        </activity>
+        <activity android:name=".QuestionTenActivity">
+        </activity>
         <activity android:name=".FinalActivity">
         </activity>
     </application>

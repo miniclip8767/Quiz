@@ -6,7 +6,7 @@ package org.theappflap.basics.quiz2016;
 public class ProgressMonitor {
     private static ProgressMonitor ourInstance;
     private int score;
-    public static final int TOTAL_QUESTIONS = 7; //Yep, this one.
+    public static final int TOTAL_QUESTIONS = 10; //Yep, this one.
     private boolean result[];
 
 

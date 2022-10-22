@@ -70,7 +70,7 @@ public class QuestionTwoActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Log.d( MainActivity.DEBUG, "Skip to Q3" );
-                Intent intent = new Intent( QuestionTwoActivity.this, QuestionFiveActivity.class);
+                Intent intent = new Intent( QuestionTwoActivity.this, QuestionThreeActivity.class);
                 startActivity(intent);
             }
         });
