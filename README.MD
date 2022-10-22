@@ -1,7 +1,7 @@
 # WELCOME, MORTALS.
 oh sweet fuck what now
 # WELCOME TO:
-## CLOWITTY'S UNIVERSAL NEURON TESTER
+**CLOWITTY'S UNIVERSAL NEURON TESTER**
 
 # IT HAS:
 1. **AWESOME QUESTIONS**
@@ -11,5 +11,6 @@ oh sweet fuck what now
 
 # BOW BEFORE ITS MIGHT!
 
-# OR DON'T
-# UP TO YOU
+*(or don't)*
+
+*(up to you)*
